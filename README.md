@@ -1,3 +1,4 @@
 # gitdemo
-This is my first repositry 
-Author-pragati patidar
+This is my first Git repositry. 
+<br>
+Author-pragati patidar.
